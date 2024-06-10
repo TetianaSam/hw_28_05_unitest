@@ -1,0 +1,4 @@
+Task 2
+The user types in three numbers.
+Based on the user's choice, the program prints a maximum of three,
+a minimum of three, or arithmetic mean of three numbers.
